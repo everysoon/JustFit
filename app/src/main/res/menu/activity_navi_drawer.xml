@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_myProfile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="나의 프로필"
+            />
+        <item
+            android:id="@+id/nav_dietManagement"
+            android:icon="@drawable/diet"
+            android:title="식단 관리"
+            />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/video"
+            android:title="운동영상 보관함"
+            />
+        <item
+            android:id="@+id/nav_calendar"
+            android:icon="@drawable/calendar"
+            android:title="운동한 날 보기"
+            />
+    </group>
+</menu>

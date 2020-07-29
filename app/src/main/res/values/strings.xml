@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Just Fit</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string-array name="food_name">
+        <item>"햄버거"</item>
+        <item>"블랙커피"</item>
+        <item>"카푸치노"</item>
+        <item>"우유"</item>
+        <item>"콜라"</item>
+        <item>"플레인 요구르트"</item>
+        <item>"소주 [1잔]"</item>
+        <item>"맥주 [1잔]"</item>
+        <item>"청하 [1병]"</item>
+        <item>"밥 1공기"</item>
+        <item>"된장찌개"</item>
+        <item>"순두부찌개"</item>
+        <item>"불고기"</item>
+        <item>"탕수육"</item>
+        <item>"우동"</item>
+        <item>"튀김우동"</item>
+        <item>"비빔냉면"</item>
+        <item>"짜장면"</item>
+        <item>"떡국"</item>
+        <item>"돈까스"</item>
+        <item>"배추김치 1접시"</item>
+        <item>"김치찌개"</item>
+        <item>"프랜치 프라이1봉지"</item>
+    </string-array>
+    <string-array name="food_calrory">
+        <item>260</item>
+        <item>0</item>
+        <item>95</item>
+        <item>122</item>
+        <item>97</item>
+        <item>110</item>
+        <item>90</item>
+        <item>185</item>
+        <item>403</item>
+        <item>250</item>
+        <item>128</item>
+        <item>165</item>
+        <item>685</item>
+        <item>616</item>
+        <item>610</item>
+        <item>577</item>
+        <item>578</item>
+        <item>670</item>
+        <item>568</item>
+        <item>960</item>
+        <item>80</item>
+        <item>87</item>
+        <item>450</item>
+    </string-array>
+</resources>
